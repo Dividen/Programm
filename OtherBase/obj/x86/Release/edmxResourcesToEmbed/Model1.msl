@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OrgSQLModelStoreContainer" CdmEntityContainer="OrgSQLEntities2">
+    <EntitySetMapping Name="Prizivnik">
+      <EntityTypeMapping TypeName="OrgSQLModel.Призывник">
+        <MappingFragment StoreEntitySet="Prizivnik">
+          <ScalarProperty Name="Повестка" ColumnName="Повестка" />
+          <ScalarProperty Name="Дата_отправки_на_ВС" ColumnName="Дата отправки на ВС" />
+          <ScalarProperty Name="Дата_призыва" ColumnName="Дата призыва" />
+          <ScalarProperty Name="Решение_Призывной_комиссии" ColumnName="Решение Призывной комиссии" />
+          <ScalarProperty Name="Номер_протокола" ColumnName="Номер протокола" />
+          <ScalarProperty Name="Дата_окончания_обучения" ColumnName="Дата окончания обучения" />
+          <ScalarProperty Name="Специальность" ColumnName="Специальность" />
+          <ScalarProperty Name="Место_обучения" ColumnName="Место обучения" />
+          <ScalarProperty Name="Алфавитный_номер" ColumnName="Алфавитный номер" />
+          <ScalarProperty Name="IDОтсрочки" ColumnName="IDОтсрочки" />
+          <ScalarProperty Name="IDГодности" ColumnName="IDГодности" />
+          <ScalarProperty Name="Примечание" ColumnName="Примечание" />
+          <ScalarProperty Name="профессия" ColumnName="профессия" />
+          <ScalarProperty Name="IDОрганизации" ColumnName="IDОрганизации" />
+          <ScalarProperty Name="IDВоенкомат" ColumnName="IDВоенкомат" />
+          <ScalarProperty Name="Место_работы_должность_телефон" ColumnName="Место работы,должность,телефон" />
+          <ScalarProperty Name="Семейное_положение" ColumnName="Семейное положение" />
+          <ScalarProperty Name="Район" ColumnName="Район" />
+          <ScalarProperty Name="Фактический_адрес_телефон" ColumnName="Фактический адрес,телефон" />
+          <ScalarProperty Name="Домашний_адрес__телефон" ColumnName="Домашний адрес, телефон" />
+          <ScalarProperty Name="Дата_прибытия_в_военкомат" ColumnName="Дата прибытия в военкомат" />
+          <ScalarProperty Name="Дата_Рождения" ColumnName="Дата Рождения" />
+          <ScalarProperty Name="Отчество" ColumnName="Отчество" />
+          <ScalarProperty Name="Имя" ColumnName="Имя" />
+          <ScalarProperty Name="Фамилия" ColumnName="Фамилия" />
+          <ScalarProperty Name="Дата_последнего_изменения" ColumnName="Дата последнего изменения" />
+          <ScalarProperty Name="IDПризывника" ColumnName="IDПризывника" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Voenkomat">
+      <EntityTypeMapping TypeName="OrgSQLModel.Voenkomat">
+        <MappingFragment StoreEntitySet="Voenkomat">
+          <ScalarProperty Name="IDРайона" ColumnName="IDРайона" />
+          <ScalarProperty Name="IDВоенкомата" ColumnName="IDВоенкомата" />
+          <ScalarProperty Name="Адрес" ColumnName="Адрес" />
+          <ScalarProperty Name="Наименование_военкомата" ColumnName="Наименование военкомата" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Годности">
+      <EntityTypeMapping TypeName="OrgSQLModel.Годности">
+        <MappingFragment StoreEntitySet="Годности">
+          <ScalarProperty Name="Описание" ColumnName="Описание" />
+          <ScalarProperty Name="Обозначение" ColumnName="Обозначение" />
+          <ScalarProperty Name="IDГодности" ColumnName="IDГодности" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Обследование">
+      <EntityTypeMapping TypeName="OrgSQLModel.Обследование">
+        <MappingFragment StoreEntitySet="Обследование">
+          <ScalarProperty Name="IDПризывника" ColumnName="IDПризывника" />
+          <ScalarProperty Name="Примечание" ColumnName="Примечание" />
+          <ScalarProperty Name="Дата_получения_ВБ" ColumnName="Дата получения ВБ" />
+          <ScalarProperty Name="Дата_обращения_за_ВБ" ColumnName="Дата обращения за ВБ" />
+          <ScalarProperty Name="Дата_передачи_в_2_ОТД" ColumnName="Дата передачи в 2 ОТД" />
+          <ScalarProperty Name="Решение_ПК" ColumnName="Решение ПК" />
+          <ScalarProperty Name="Номер_протокола" ColumnName="Номер протокола" />
+          <ScalarProperty Name="Дата_прибытия_после_обследования" ColumnName="Дата прибытия после обследования" />
+          <ScalarProperty Name="Дата_получения_акта" ColumnName="Дата получения акта" />
+          <ScalarProperty Name="Лечебное_учереждение" ColumnName="Лечебное учереждение" />
+          <ScalarProperty Name="Диагноз" ColumnName="Диагноз" />
+          <ScalarProperty Name="Кто_направил" ColumnName="Кто направил" />
+          <ScalarProperty Name="Дата_направления" ColumnName="Дата направления" />
+          <ScalarProperty Name="Дата_рождения" ColumnName="Дата рождения" />
+          <ScalarProperty Name="Фамилия_Имя_Отчество" ColumnName="Фамилия,Имя,Отчество" />
+          <ScalarProperty Name="IDобследования" ColumnName="IDобследования" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Отсрочка">
+      <EntityTypeMapping TypeName="OrgSQLModel.Отсрочка">
+        <MappingFragment StoreEntitySet="Отсрочка">
+          <ScalarProperty Name="Наименование" ColumnName="Наименование" />
+          <ScalarProperty Name="IDОтсрочки" ColumnName="IDОтсрочки" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Район">
+      <EntityTypeMapping TypeName="OrgSQLModel.Район">
+        <MappingFragment StoreEntitySet="Район">
+          <ScalarProperty Name="IDВоенкомата" ColumnName="IDВоенкомата" />
+          <ScalarProperty Name="Название" ColumnName="Название" />
+          <ScalarProperty Name="Город" ColumnName="Город" />
+          <ScalarProperty Name="Субъект" ColumnName="Субъект" />
+          <ScalarProperty Name="IDРайона" ColumnName="IDРайона" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Родитель">
+      <EntityTypeMapping TypeName="OrgSQLModel.Родитель">
+        <MappingFragment StoreEntitySet="Родитель">
+          <ScalarProperty Name="IDПризывника" ColumnName="IDПризывника" />
+          <ScalarProperty Name="Телефон" ColumnName="Телефон" />
+          <ScalarProperty Name="IDРодства" ColumnName="IDРодства" />
+          <ScalarProperty Name="Отчество" ColumnName="Отчество" />
+          <ScalarProperty Name="Фамилия" ColumnName="Фамилия" />
+          <ScalarProperty Name="Имя" ColumnName="Имя" />
+          <ScalarProperty Name="IdРодителя" ColumnName="IdРодителя" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Розыск">
+      <EntityTypeMapping TypeName="OrgSQLModel.Розыск">
+        <MappingFragment StoreEntitySet="Розыск">
+          <ScalarProperty Name="Примечание" ColumnName="Примечание" />
+          <ScalarProperty Name="Направление_в_ОВД" ColumnName="Направление в ОВД" />
+          <ScalarProperty Name="Результат" ColumnName="Результат" />
+          <ScalarProperty Name="Отметка_о_прибытии" ColumnName="Отметка о прибытии" />
+          <ScalarProperty Name="Дата_прибытия" ColumnName="Дата прибытия" />
+          <ScalarProperty Name="Тип_розыска" ColumnName="Тип розыска" />
+          <ScalarProperty Name="Номер_этапа" ColumnName="Номер этапа" />
+          <ScalarProperty Name="IDПризывника" ColumnName="IDПризывника" />
+          <ScalarProperty Name="IDРозыска" ColumnName="IDРозыска" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ТипРодства">
+      <EntityTypeMapping TypeName="OrgSQLModel.ТипРодства">
+        <MappingFragment StoreEntitySet="ТипРодства">
+          <ScalarProperty Name="Наименование" ColumnName="Наименование" />
+          <ScalarProperty Name="IdТипа_Родства" ColumnName="IdТипа Родства" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

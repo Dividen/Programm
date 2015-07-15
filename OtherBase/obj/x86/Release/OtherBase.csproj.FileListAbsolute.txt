@@ -1,0 +1,381 @@
+C:\Программы на С#\OtherBaseWork\OtherBase\bin\Release\OtherBase.exe.config
+C:\Программы на С#\OtherBaseWork\OtherBase\bin\Release\OtherBase.exe
+C:\Программы на С#\OtherBaseWork\OtherBase\bin\Release\OtherBase.pdb
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\OtherBase.Form1.resources
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\bin\Release\OtherBase.exe.config
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\bin\Release\OtherBase.exe
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\bin\Release\OtherBase.pdb
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\OtherBase.Form1.resources
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Программы на С#\База данных с паролями\OtherBase\bin\Release\OtherBase.exe.config
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Программы на С#\База данных с паролями\OtherBase\bin\Release\OtherBase.exe
+C:\Программы на С#\База данных с паролями\OtherBase\bin\Release\OtherBase.pdb
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\OtherBase.Form1.resources
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Программы на С#\База данных с паролями\OtherBase\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Программы на С#\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe.config
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Программы на С#\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe
+C:\Программы на С#\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.pdb
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Table.resources
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Программы на С#\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Table.resources
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.pdb
+C:\Users\Дмитрий\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Table.resources
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Table.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.InputForm.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Sotr.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikForm.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivJournal.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.OtsrochJournal.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PPGVUJournal.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.ObsledovanieJournal.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskJournal.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.ControlJournal.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.InsertFile.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.OtchetRoziskTekst.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.FailedMissions.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\Telerik.Reporting.dll
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\Telerik.Reporting.pdb
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\Telerik.Reporting.xml
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.pdb
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.xml
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Report3.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskT.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.UncomChalenge.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskN.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskL.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikReport.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikFormOtsch.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskUForm.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskLForm.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskNForm.resources
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.mdf
+C:\Users\Admin\Desktop\Текстовой документ (4)\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\localserver\OrgSQL_log.ldf
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.ControlJournal.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.FailedMissions.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.InputForm.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.InsertFile.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.ObsledovanieJournal.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.OtchetRoziskTekst.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.OtsrochJournal.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PPGVUJournal.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivJournal.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikForm.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikFormOtsch.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikReport.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskL.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskLForm.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskN.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskNForm.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskT.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.UncomChalenge.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Report3.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskJournal.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskUForm.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Sotr.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Table.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Users\Admin\Desktop\Диплом\Программа\Программа по работе с базой данных - копия\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.ControlJournal.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.FailedMissions.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Form2.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.InputForm.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.InsertFile.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.ObsledovanieJournal.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.OtchetRoziskTekst.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.OtsrochJournal.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PPGVUJournal.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivJournal.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikForm.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikFormOtsch.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.PrizivnikReport.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskL.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskLForm.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskN.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskNForm.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskT.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.UncomChalenge.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Report3.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskJournal.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.RoziskUForm.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Sotr.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Table.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.mdf
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\Telerik.Reporting.dll
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.dll
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\Telerik.Reporting.pdb
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\Telerik.Reporting.xml
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.pdb
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.xml
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.ldf
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.exe
+C:\Users\Дмитрий\Desktop\База данных с паролями - дом\OtherBase\bin\Release\OtherBase.pdb
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.FailedMissions.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.InputForm.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ObsledovanieJournal.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtchetRoziskTekst.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtsrochJournal.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PPGVUJournal.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivJournal.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikFormOtsch.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikReport.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskL.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskLForm.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskN.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskNForm.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskT.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.UncomChalenge.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report3.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskJournal.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskUForm.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.ldf
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.mdf
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\OtherBase.exe
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\OtherBase.pdb
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.pdb
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.xml
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.pdb
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.xml
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.District.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.HealthCategory.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.SpecialPom.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ПризывникForm.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.dll
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.dll
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Otsroch.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report1.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Othet.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Obsledov.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report2.resources
+C:\Users\Дмитрий\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Parents.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\OtherBase.exe.config
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.ldf
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.mdf
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\OtherBase.exe
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\OtherBase.pdb
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.dll
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.pdb
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.xml
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.pdb
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.xml
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.District.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.FailedMissions.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.HealthCategory.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.InputForm.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Obsledov.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ObsledovanieJournal.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtchetRoziskTekst.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Othet.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Otsroch.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtsrochJournal.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Parents.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PPGVUJournal.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivJournal.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ПризывникForm.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikFormOtsch.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikReport.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report1.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report2.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskL.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskLForm.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskN.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskNForm.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskT.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.UncomChalenge.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report3.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskJournal.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskUForm.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.SpecialPom.resources
+C:\Users\Admin\Desktop\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+E:\Дипломная работа\OtherBase\bin\Release\OtherBase.exe.config
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.exe
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.pdb
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.District.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.FailedMissions.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.HealthCategory.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.InputForm.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Obsledov.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ObsledovanieJournal.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtchetRoziskTekst.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Othet.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Otsroch.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtsrochJournal.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Parents.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PPGVUJournal.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivJournal.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ПризывникForm.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikFormOtsch.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikReport.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report1.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report2.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskL.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskLForm.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskN.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskNForm.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskT.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.UncomChalenge.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report3.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskJournal.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskUForm.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.SpecialPom.resources
+E:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache
+E:\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.ldf
+E:\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.mdf
+E:\Дипломная работа\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+E:\Дипломная работа\OtherBase\bin\Release\OtherBase.exe
+E:\Дипломная работа\OtherBase\bin\Release\OtherBase.pdb
+E:\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.pdb
+E:\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.xml
+E:\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.pdb
+E:\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.xml
+E:\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL_log.ldf
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.exe
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.pdb
+G:\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.ldf
+G:\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL.mdf
+G:\Дипломная работа\OtherBase\bin\Release\bin\Release\localserver\OrgSQL_log.ldf
+G:\Дипломная работа\OtherBase\bin\Release\bin\Release\printer\doc1.docx
+G:\Дипломная работа\OtherBase\bin\Release\OtherBase.exe
+G:\Дипломная работа\OtherBase\bin\Release\OtherBase.pdb
+G:\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.dll
+G:\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.dll
+G:\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.pdb
+G:\Дипломная работа\OtherBase\bin\Release\Telerik.Reporting.xml
+G:\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.pdb
+G:\Дипломная работа\OtherBase\bin\Release\Telerik.ReportViewer.WinForms.xml
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csprojResolveAssemblyReference.cache
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.District.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.FailedMissions.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.HealthCategory.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.InputForm.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Obsledov.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ObsledovanieJournal.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtchetRoziskTekst.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Othet.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Otsroch.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.OtsrochJournal.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Parents.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PPGVUJournal.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivJournal.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.ПризывникForm.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikFormOtsch.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.PrizivnikReport.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report1.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report2.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskL.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskLForm.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskN.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskNForm.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskT.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.UncomChalenge.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Report3.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskJournal.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.RoziskUForm.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.BasePro.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Properties.Resources.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.Selection.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.SpecialPom.resources
+G:\Дипломная работа\OtherBase\obj\x86\Release\OtherBase.csproj.GenerateResource.Cache

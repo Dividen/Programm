@@ -1,0 +1,27 @@
+C:\Программы на С#\OtherBase\OtherBase\bin\Debug\OtherBase.exe.config
+C:\Программы на С#\OtherBase\OtherBase\bin\Debug\OtherBase.exe
+C:\Программы на С#\OtherBase\OtherBase\bin\Debug\OtherBase.pdb
+C:\Программы на С#\OtherBase\OtherBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Программы на С#\OtherBase\OtherBase\obj\x86\Debug\OtherBase.Form1.resources
+C:\Программы на С#\OtherBase\OtherBase\obj\x86\Debug\OtherBase.Properties.Resources.resources
+C:\Программы на С#\OtherBase\OtherBase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Программы на С#\OtherBase\OtherBase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Программы на С#\OtherBase\OtherBase\obj\x86\Debug\OtherBase.exe
+C:\Программы на С#\OtherBase\OtherBase\obj\x86\Debug\OtherBase.pdb
+C:\Программы на С#\OtherBaseWork\OtherBase\bin\Debug\OtherBase.exe.config
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\OtherBase.exe
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\OtherBase.pdb
+C:\Программы на С#\OtherBaseWork\OtherBase\bin\Debug\OtherBase.exe
+C:\Программы на С#\OtherBaseWork\OtherBase\bin\Debug\OtherBase.pdb
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\OtherBase.Form1.resources
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\OtherBase.Properties.Resources.resources
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Программы на С#\OtherBaseWork\OtherBase\obj\x86\Debug\OtherBase.Form2.resources
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\bin\Debug\OtherBase.exe.config
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Debug\OtherBase.exe
+C:\Программы на С#\OtherBaseWorkSave\OtherBase\obj\x86\Debug\OtherBase.pdb
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\bin\Debug\OtherBase.exe.config
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Debug\OtherBase.exe
+C:\Users\Admin\Desktop\Резервная копия База+программа\Программа по работе с базой данных\База данных с паролями - дом\OtherBase\obj\x86\Debug\OtherBase.pdb

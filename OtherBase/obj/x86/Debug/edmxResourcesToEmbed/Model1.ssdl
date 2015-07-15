@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OrgSQLModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="OrgSQLModelStoreContainer">
+    <EntitySet Name="Org" EntityType="OrgSQLModel.Store.Org" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Org">
+    <Key>
+      <PropertyRef Name="Порядковый номер" />
+    </Key>
+    <Property Name="Порядковый номер" Type="float" Nullable="false" />
+    <Property Name="Код организации" Type="float" />
+    <Property Name="Особые отметки" Type="nvarchar" MaxLength="255" />
+    <Property Name="Дата посещения" Type="date" />
+    <Property Name="Дата последней проверки" Type="date" />
+    <Property Name="Дата следующей проверки" Type="date" />
+    <Property Name="Правовой статус организации" Type="text" />
+    <Property Name="Наименование организации" Type="nvarchar" MaxLength="255" />
+    <Property Name="Направление деятельности" Type="nvarchar" MaxLength="255" />
+    <Property Name="Индекс" Type="nvarchar" MaxLength="255" />
+    <Property Name="Регион" Type="nvarchar" MaxLength="255" />
+    <Property Name="Округ Москвы (район др. регионы)" Type="nvarchar" MaxLength="255" />
+    <Property Name="Районы Москвы(нп др.регионы)" Type="nvarchar" MaxLength="255" />
+    <Property Name="Улица юр" Type="nvarchar" MaxLength="255" />
+    <Property Name="Дом" Type="float" />
+    <Property Name="Корпус" Type="nvarchar" MaxLength="255" />
+    <Property Name="Квартира(комната)" Type="nvarchar" MaxLength="53" />
+    <Property Name="Фактический адрес" Type="nvarchar" MaxLength="255" />
+    <Property Name="Сайт" Type="nvarchar" MaxLength="255" />
+    <Property Name="Телефон" Type="nvarchar" MaxLength="255" />
+    <Property Name="Факс" Type="nvarchar" MaxLength="255" />
+    <Property Name="E-mail" Type="nvarchar" MaxLength="255" />
+    <Property Name="Приказ отв по ВУР" Type="nvarchar" MaxLength="255" />
+    <Property Name="Ответственный за ВУР" Type="nvarchar" MaxLength="255" />
+    <Property Name="Телефон ответственного за ВУР" Type="nvarchar" MaxLength="50" />
+    <Property Name="Дата согласования плана" Type="date" />
+    <Property Name="Название должности руководителя" Type="nvarchar" MaxLength="255" />
+    <Property Name="ФИО руководителя" Type="nvarchar" MaxLength="255" />
+    <Property Name="Фамилия и инициалы руководителя" Type="nvarchar" MaxLength="255" />
+    <Property Name="Имя и отчество руководителя" Type="nvarchar" MaxLength="255" />
+    <Property Name="Телефон руководителя" Type="nvarchar" MaxLength="255" />
+    <Property Name="Количество работников" Type="int" />
+    <Property Name="Количество ГПЗ" Type="int" />
+    <Property Name="ГПЗ с МП" Type="int" />
+    <Property Name="Наличие приказа об оповещении" Type="nvarchar" MaxLength="255" />
+    <Property Name="Ответственный за оповещение" Type="nvarchar" MaxLength="255" />
+    <Property Name="Телефон отв. за оповещение" Type="nvarchar" MaxLength="255" />
+    <Property Name="Документы ШО(ГО)" Type="nvarchar" MaxLength="255" />
+    <Property Name="Уточнение сводной карточки" Type="date" />
+    <Property Name="Наличие приказа по АТТ" Type="nvarchar" MaxLength="255" />
+    <Property Name="Ответственый за АТТ" Type="nvarchar" MaxLength="255" />
+    <Property Name="Телефон отв. за АТТ" Type="nvarchar" MaxLength="255" />
+    <Property Name="Паспорт организации" Type="nvarchar" MaxLength="255" />
+    <Property Name="Код статистики" Type="nvarchar" MaxLength="255" />
+    <Property Name="Дата вручения сводного наряда" Type="date" />
+    <Property Name="Ответственный за спец учет" Type="nvarchar" MaxLength="255" />
+    <Property Name="Телефон отв. за спец учет" Type="nvarchar" MaxLength="255" />
+    <Property Name="Выдано бланков Ф-4" Type="int" />
+    <Property Name="Получено бланков Ф.№4" Type="int" />
+    <Property Name="Дата сверки БСО" Type="date" />
+    <Property Name="Донесение 11/МУ" Type="nvarchar" MaxLength="255" />
+    <Property Name="Дата вручения уведомления " Type="date" />
+    <Property Name="Направлено письмо 1" Type="date" />
+    <Property Name="Получен ответ письмо 1" Type="nvarchar" MaxLength="250" />
+    <Property Name="Направлено письмо 2" Type="date" />
+    <Property Name="Получен ответ письмо 2" Type="nvarchar" MaxLength="250" />
+    <Property Name="Направлено письмо 3" Type="date" />
+    <Property Name="Получен ответ письмо 3" Type="nvarchar" MaxLength="250" />
+    <Property Name="Направлено письмо 4" Type="date" />
+    <Property Name="Получен ответ письмо 4" Type="nvarchar" MaxLength="250" />
+    <Property Name="Примечание" Type="nvarchar" MaxLength="250" />
+    <Property Name="Ключ" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+  </EntityType>
+</Schema>

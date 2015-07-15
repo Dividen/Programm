@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OrgSQLModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="OrgSQLEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Orgs" EntityType="OrgSQLModel.Org" />
+  </EntityContainer>
+  <EntityType Name="Org">
+    <Key>
+      <PropertyRef Name="Порядковый_номер" />
+    </Key>
+    <Property Type="Double" Name="Порядковый_номер" Nullable="false" />
+    <Property Type="Double" Name="Код_организации" />
+    <Property Type="String" Name="Особые_отметки" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_посещения" />
+    <Property Type="DateTime" Name="Дата_последней_проверки" />
+    <Property Type="DateTime" Name="Дата_следующей_проверки" />
+    <Property Type="String" Name="Правовой_статус_организации" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Наименование_организации" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Направление_деятельности" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Индекс" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Регион" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Округ_Москвы__район_др__регионы_" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Районы_Москвы_нп_др_регионы_" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Улица_юр" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Double" Name="Дом" />
+    <Property Type="String" Name="Корпус" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Квартира_комната_" MaxLength="53" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Фактический_адрес" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Сайт" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Телефон" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Факс" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="E_mail" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Приказ_отв_по_ВУР" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Ответственный_за_ВУР" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_согласования_плана" />
+    <Property Type="String" Name="Название_должности_руководителя" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="ФИО_руководителя" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Фамилия_и_инициалы_руководителя" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Имя_и_отчество_руководителя" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Телефон_руководителя" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="Количество_работников" />
+    <Property Type="Int32" Name="Количество_ГПЗ" />
+    <Property Type="Int32" Name="ГПЗ_с_МП" />
+    <Property Type="String" Name="Наличие_приказа_об_оповещении" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Ответственный_за_оповещение" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Телефон_отв__за_оповещение" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Документы_ШО_ГО_" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Уточнение_сводной_карточки" />
+    <Property Type="String" Name="Наличие_приказа_по_АТТ" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Ответственый_за_АТТ" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Телефон_отв__за_АТТ" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Паспорт_организации" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Код_статистики" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_вручения_сводного_наряда" />
+    <Property Type="String" Name="Ответственный_за_спец_учет" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Телефон_отв__за_спец_учет" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="Выдано_бланков_Ф_4" />
+    <Property Type="Int32" Name="Получено_бланков_Ф__4" />
+    <Property Type="DateTime" Name="Дата_сверки_БСО" />
+    <Property Type="String" Name="Донесение_11_МУ" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_вручения_уведомления_" />
+    <Property Type="DateTime" Name="Направлено_письмо_1" />
+    <Property Type="String" Name="Получен_ответ_письмо_1" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Направлено_письмо_2" />
+    <Property Type="String" Name="Получен_ответ_письмо_2" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Направлено_письмо_3" />
+    <Property Type="String" Name="Получен_ответ_письмо_3" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Направлено_письмо_4" />
+    <Property Type="String" Name="Получен_ответ_письмо_4" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Примечание" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="Ключ" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Телефон_ответственного_за_ВУР" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

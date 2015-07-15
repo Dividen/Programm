@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OrgSQLModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="OrgSQLEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Prizivnik" EntityType="OrgSQLModel.Призывник" />
+    <EntitySet Name="Voenkomat" EntityType="OrgSQLModel.Voenkomat" />
+    <EntitySet Name="Годности" EntityType="OrgSQLModel.Годности" />
+    <EntitySet Name="Обследование" EntityType="OrgSQLModel.Обследование" />
+    <EntitySet Name="Отсрочка" EntityType="OrgSQLModel.Отсрочка" />
+    <EntitySet Name="Район" EntityType="OrgSQLModel.Район" />
+    <EntitySet Name="Родитель" EntityType="OrgSQLModel.Родитель" />
+    <EntitySet Name="Розыск" EntityType="OrgSQLModel.Розыск" />
+    <EntitySet Name="ТипРодства" EntityType="OrgSQLModel.ТипРодства" />
+    <AssociationSet Name="FK_Prizivnik_Годности" Association="OrgSQLModel.FK_Prizivnik_Годности">
+      <End Role="Годности" EntitySet="Годности" />
+      <End Role="Prizivnik" EntitySet="Prizivnik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Prizivnik_Отсрочка" Association="OrgSQLModel.FK_Prizivnik_Отсрочка">
+      <End Role="Отсрочка" EntitySet="Отсрочка" />
+      <End Role="Prizivnik" EntitySet="Prizivnik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Prizivnik_Район" Association="OrgSQLModel.FK_Prizivnik_Район">
+      <End Role="Район" EntitySet="Район" />
+      <End Role="Prizivnik" EntitySet="Prizivnik" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Обследование_Prizivnik" Association="OrgSQLModel.FK_Обследование_Prizivnik">
+      <End Role="Prizivnik" EntitySet="Prizivnik" />
+      <End Role="Обследование" EntitySet="Обследование" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Родитель_ToTable" Association="OrgSQLModel.FK_Родитель_ToTable">
+      <End Role="Prizivnik" EntitySet="Prizivnik" />
+      <End Role="Родитель" EntitySet="Родитель" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Розыск_Prizivnik" Association="OrgSQLModel.FK_Розыск_Prizivnik">
+      <End Role="Prizivnik" EntitySet="Prizivnik" />
+      <End Role="Розыск" EntitySet="Розыск" />
+    </AssociationSet>
+    <AssociationSet Name="IDРодства_ТипРодства" Association="OrgSQLModel.IDРодства_ТипРодства">
+      <End Role="ТипРодства" EntitySet="ТипРодства" />
+      <End Role="Родитель" EntitySet="Родитель" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Призывник">
+    <Key>
+      <PropertyRef Name="IDПризывника" />
+    </Key>
+    <Property Type="Int32" Name="IDПризывника" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="Дата_последнего_изменения" Precision="0" />
+    <Property Type="String" Name="Фамилия" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Имя" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Отчество" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_Рождения" Precision="0" />
+    <Property Type="DateTime" Name="Дата_прибытия_в_военкомат" Precision="0" />
+    <Property Type="String" Name="Домашний_адрес__телефон" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Фактический_адрес_телефон" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="Район" />
+    <Property Type="String" Name="Семейное_положение" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Место_работы_должность_телефон" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="IDВоенкомат" />
+    <Property Type="Int32" Name="IDОрганизации" />
+    <Property Type="String" Name="профессия" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Примечание" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="IDГодности" />
+    <Property Type="Int32" Name="IDОтсрочки" />
+    <Property Type="String" Name="Алфавитный_номер" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Место_обучения" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Специальность" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_окончания_обучения" Precision="0" />
+    <Property Type="String" Name="Номер_протокола" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Решение_Призывной_комиссии" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_призыва" Precision="0" />
+    <Property Type="DateTime" Name="Дата_отправки_на_ВС" Precision="0" />
+    <Property Type="Boolean" Name="Повестка" />
+    <NavigationProperty Name="Годности" Relationship="OrgSQLModel.FK_Prizivnik_Годности" FromRole="Prizivnik" ToRole="Годности" />
+    <NavigationProperty Name="Отсрочка" Relationship="OrgSQLModel.FK_Prizivnik_Отсрочка" FromRole="Prizivnik" ToRole="Отсрочка" />
+    <NavigationProperty Name="Район1" Relationship="OrgSQLModel.FK_Prizivnik_Район" FromRole="Prizivnik" ToRole="Район" />
+    <NavigationProperty Name="Обследование" Relationship="OrgSQLModel.FK_Обследование_Prizivnik" FromRole="Prizivnik" ToRole="Обследование" />
+    <NavigationProperty Name="Родитель" Relationship="OrgSQLModel.FK_Родитель_ToTable" FromRole="Prizivnik" ToRole="Родитель" />
+    <NavigationProperty Name="Розыск" Relationship="OrgSQLModel.FK_Розыск_Prizivnik" FromRole="Prizivnik" ToRole="Розыск" />
+  </EntityType>
+  <EntityType Name="Voenkomat">
+    <Key>
+      <PropertyRef Name="IDВоенкомата" />
+    </Key>
+    <Property Type="String" Name="Наименование_военкомата" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Адрес" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="IDВоенкомата" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="IDРайона" />
+  </EntityType>
+  <EntityType Name="Годности">
+    <Key>
+      <PropertyRef Name="IDГодности" />
+    </Key>
+    <Property Type="Int32" Name="IDГодности" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Обозначение" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Описание" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Prizivnik" Relationship="OrgSQLModel.FK_Prizivnik_Годности" FromRole="Годности" ToRole="Prizivnik" />
+  </EntityType>
+  <EntityType Name="Обследование">
+    <Key>
+      <PropertyRef Name="IDобследования" />
+    </Key>
+    <Property Type="Int32" Name="IDобследования" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Фамилия_Имя_Отчество" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_рождения" Precision="0" />
+    <Property Type="DateTime" Name="Дата_направления" Precision="0" />
+    <Property Type="String" Name="Кто_направил" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Диагноз" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Лечебное_учереждение" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_получения_акта" Precision="0" />
+    <Property Type="DateTime" Name="Дата_прибытия_после_обследования" Precision="0" />
+    <Property Type="String" Name="Номер_протокола" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Решение_ПК" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_передачи_в_2_ОТД" Precision="0" />
+    <Property Type="DateTime" Name="Дата_обращения_за_ВБ" Precision="0" />
+    <Property Type="DateTime" Name="Дата_получения_ВБ" Precision="0" />
+    <Property Type="String" Name="Примечание" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="IDПризывника" />
+    <NavigationProperty Name="Prizivnik" Relationship="OrgSQLModel.FK_Обследование_Prizivnik" FromRole="Обследование" ToRole="Prizivnik" />
+  </EntityType>
+  <EntityType Name="Отсрочка">
+    <Key>
+      <PropertyRef Name="IDОтсрочки" />
+    </Key>
+    <Property Type="Int32" Name="IDОтсрочки" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Наименование" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Prizivnik" Relationship="OrgSQLModel.FK_Prizivnik_Отсрочка" FromRole="Отсрочка" ToRole="Prizivnik" />
+  </EntityType>
+  <EntityType Name="Район">
+    <Key>
+      <PropertyRef Name="IDРайона" />
+    </Key>
+    <Property Type="Int32" Name="IDРайона" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Субъект" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Город" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Название" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="IDВоенкомата" />
+    <NavigationProperty Name="Prizivnik" Relationship="OrgSQLModel.FK_Prizivnik_Район" FromRole="Район" ToRole="Prizivnik" />
+  </EntityType>
+  <EntityType Name="Родитель">
+    <Key>
+      <PropertyRef Name="IdРодителя" />
+    </Key>
+    <Property Type="Int32" Name="IdРодителя" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Имя" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Фамилия" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Отчество" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="IDРодства" />
+    <Property Type="String" Name="Телефон" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="IDПризывника" />
+    <NavigationProperty Name="Prizivnik" Relationship="OrgSQLModel.FK_Родитель_ToTable" FromRole="Родитель" ToRole="Prizivnik" />
+    <NavigationProperty Name="ТипРодства" Relationship="OrgSQLModel.IDРодства_ТипРодства" FromRole="Родитель" ToRole="ТипРодства" />
+  </EntityType>
+  <EntityType Name="Розыск">
+    <Key>
+      <PropertyRef Name="IDРозыска" />
+    </Key>
+    <Property Type="Int32" Name="IDРозыска" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="IDПризывника" />
+    <Property Type="Int32" Name="Номер_этапа" />
+    <Property Type="String" Name="Тип_розыска" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="DateTime" Name="Дата_прибытия" Precision="0" />
+    <Property Type="String" Name="Отметка_о_прибытии" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Результат" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Направление_в_ОВД" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="Примечание" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Prizivnik" Relationship="OrgSQLModel.FK_Розыск_Prizivnik" FromRole="Розыск" ToRole="Prizivnik" />
+  </EntityType>
+  <EntityType Name="ТипРодства">
+    <Key>
+      <PropertyRef Name="IdТипа_Родства" />
+    </Key>
+    <Property Type="Int32" Name="IdТипа_Родства" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Наименование" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Родитель" Relationship="OrgSQLModel.IDРодства_ТипРодства" FromRole="ТипРодства" ToRole="Родитель" />
+  </EntityType>
+  <Association Name="FK_Prizivnik_Годности">
+    <End Type="OrgSQLModel.Годности" Role="Годности" Multiplicity="0..1" />
+    <End Type="OrgSQLModel.Призывник" Role="Prizivnik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Годности">
+        <PropertyRef Name="IDГодности" />
+      </Principal>
+      <Dependent Role="Prizivnik">
+        <PropertyRef Name="IDГодности" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Prizivnik_Отсрочка">
+    <End Type="OrgSQLModel.Отсрочка" Role="Отсрочка" Multiplicity="0..1" />
+    <End Type="OrgSQLModel.Призывник" Role="Prizivnik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Отсрочка">
+        <PropertyRef Name="IDОтсрочки" />
+      </Principal>
+      <Dependent Role="Prizivnik">
+        <PropertyRef Name="IDОтсрочки" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Prizivnik_Район">
+    <End Type="OrgSQLModel.Район" Role="Район" Multiplicity="0..1" />
+    <End Type="OrgSQLModel.Призывник" Role="Prizivnik" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Район">
+        <PropertyRef Name="IDРайона" />
+      </Principal>
+      <Dependent Role="Prizivnik">
+        <PropertyRef Name="Район" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Обследование_Prizivnik">
+    <End Type="OrgSQLModel.Призывник" Role="Prizivnik" Multiplicity="0..1" />
+    <End Type="OrgSQLModel.Обследование" Role="Обследование" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Prizivnik">
+        <PropertyRef Name="IDПризывника" />
+      </Principal>
+      <Dependent Role="Обследование">
+        <PropertyRef Name="IDПризывника" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Родитель_ToTable">
+    <End Type="OrgSQLModel.Призывник" Role="Prizivnik" Multiplicity="0..1" />
+    <End Type="OrgSQLModel.Родитель" Role="Родитель" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Prizivnik">
+        <PropertyRef Name="IDПризывника" />
+      </Principal>
+      <Dependent Role="Родитель">
+        <PropertyRef Name="IDПризывника" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Розыск_Prizivnik">
+    <End Type="OrgSQLModel.Призывник" Role="Prizivnik" Multiplicity="0..1" />
+    <End Type="OrgSQLModel.Розыск" Role="Розыск" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Prizivnik">
+        <PropertyRef Name="IDПризывника" />
+      </Principal>
+      <Dependent Role="Розыск">
+        <PropertyRef Name="IDПризывника" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IDРодства_ТипРодства">
+    <End Type="OrgSQLModel.ТипРодства" Role="ТипРодства" Multiplicity="0..1" />
+    <End Type="OrgSQLModel.Родитель" Role="Родитель" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ТипРодства">
+        <PropertyRef Name="IdТипа_Родства" />
+      </Principal>
+      <Dependent Role="Родитель">
+        <PropertyRef Name="IDРодства" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

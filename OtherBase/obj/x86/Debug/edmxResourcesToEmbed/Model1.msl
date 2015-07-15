@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OrgSQLModelStoreContainer" CdmEntityContainer="OrgSQLEntities">
+    <EntitySetMapping Name="Orgs">
+      <EntityTypeMapping TypeName="OrgSQLModel.Org">
+        <MappingFragment StoreEntitySet="Org">
+          <ScalarProperty Name="Телефон_ответственного_за_ВУР" ColumnName="Телефон ответственного за ВУР" />
+          <ScalarProperty Name="Ключ" ColumnName="Ключ" />
+          <ScalarProperty Name="Примечание" ColumnName="Примечание" />
+          <ScalarProperty Name="Получен_ответ_письмо_4" ColumnName="Получен ответ письмо 4" />
+          <ScalarProperty Name="Направлено_письмо_4" ColumnName="Направлено письмо 4" />
+          <ScalarProperty Name="Получен_ответ_письмо_3" ColumnName="Получен ответ письмо 3" />
+          <ScalarProperty Name="Направлено_письмо_3" ColumnName="Направлено письмо 3" />
+          <ScalarProperty Name="Получен_ответ_письмо_2" ColumnName="Получен ответ письмо 2" />
+          <ScalarProperty Name="Направлено_письмо_2" ColumnName="Направлено письмо 2" />
+          <ScalarProperty Name="Получен_ответ_письмо_1" ColumnName="Получен ответ письмо 1" />
+          <ScalarProperty Name="Направлено_письмо_1" ColumnName="Направлено письмо 1" />
+          <ScalarProperty Name="Дата_вручения_уведомления_" ColumnName="Дата вручения уведомления " />
+          <ScalarProperty Name="Донесение_11_МУ" ColumnName="Донесение 11/МУ" />
+          <ScalarProperty Name="Дата_сверки_БСО" ColumnName="Дата сверки БСО" />
+          <ScalarProperty Name="Получено_бланков_Ф__4" ColumnName="Получено бланков Ф.№4" />
+          <ScalarProperty Name="Выдано_бланков_Ф_4" ColumnName="Выдано бланков Ф-4" />
+          <ScalarProperty Name="Телефон_отв__за_спец_учет" ColumnName="Телефон отв. за спец учет" />
+          <ScalarProperty Name="Ответственный_за_спец_учет" ColumnName="Ответственный за спец учет" />
+          <ScalarProperty Name="Дата_вручения_сводного_наряда" ColumnName="Дата вручения сводного наряда" />
+          <ScalarProperty Name="Код_статистики" ColumnName="Код статистики" />
+          <ScalarProperty Name="Паспорт_организации" ColumnName="Паспорт организации" />
+          <ScalarProperty Name="Телефон_отв__за_АТТ" ColumnName="Телефон отв. за АТТ" />
+          <ScalarProperty Name="Ответственый_за_АТТ" ColumnName="Ответственый за АТТ" />
+          <ScalarProperty Name="Наличие_приказа_по_АТТ" ColumnName="Наличие приказа по АТТ" />
+          <ScalarProperty Name="Уточнение_сводной_карточки" ColumnName="Уточнение сводной карточки" />
+          <ScalarProperty Name="Документы_ШО_ГО_" ColumnName="Документы ШО(ГО)" />
+          <ScalarProperty Name="Телефон_отв__за_оповещение" ColumnName="Телефон отв. за оповещение" />
+          <ScalarProperty Name="Ответственный_за_оповещение" ColumnName="Ответственный за оповещение" />
+          <ScalarProperty Name="Наличие_приказа_об_оповещении" ColumnName="Наличие приказа об оповещении" />
+          <ScalarProperty Name="ГПЗ_с_МП" ColumnName="ГПЗ с МП" />
+          <ScalarProperty Name="Количество_ГПЗ" ColumnName="Количество ГПЗ" />
+          <ScalarProperty Name="Количество_работников" ColumnName="Количество работников" />
+          <ScalarProperty Name="Телефон_руководителя" ColumnName="Телефон руководителя" />
+          <ScalarProperty Name="Имя_и_отчество_руководителя" ColumnName="Имя и отчество руководителя" />
+          <ScalarProperty Name="Фамилия_и_инициалы_руководителя" ColumnName="Фамилия и инициалы руководителя" />
+          <ScalarProperty Name="ФИО_руководителя" ColumnName="ФИО руководителя" />
+          <ScalarProperty Name="Название_должности_руководителя" ColumnName="Название должности руководителя" />
+          <ScalarProperty Name="Дата_согласования_плана" ColumnName="Дата согласования плана" />
+          <ScalarProperty Name="Ответственный_за_ВУР" ColumnName="Ответственный за ВУР" />
+          <ScalarProperty Name="Приказ_отв_по_ВУР" ColumnName="Приказ отв по ВУР" />
+          <ScalarProperty Name="E_mail" ColumnName="E-mail" />
+          <ScalarProperty Name="Факс" ColumnName="Факс" />
+          <ScalarProperty Name="Телефон" ColumnName="Телефон" />
+          <ScalarProperty Name="Сайт" ColumnName="Сайт" />
+          <ScalarProperty Name="Фактический_адрес" ColumnName="Фактический адрес" />
+          <ScalarProperty Name="Квартира_комната_" ColumnName="Квартира(комната)" />
+          <ScalarProperty Name="Корпус" ColumnName="Корпус" />
+          <ScalarProperty Name="Дом" ColumnName="Дом" />
+          <ScalarProperty Name="Улица_юр" ColumnName="Улица юр" />
+          <ScalarProperty Name="Районы_Москвы_нп_др_регионы_" ColumnName="Районы Москвы(нп др.регионы)" />
+          <ScalarProperty Name="Округ_Москвы__район_др__регионы_" ColumnName="Округ Москвы (район др. регионы)" />
+          <ScalarProperty Name="Регион" ColumnName="Регион" />
+          <ScalarProperty Name="Индекс" ColumnName="Индекс" />
+          <ScalarProperty Name="Направление_деятельности" ColumnName="Направление деятельности" />
+          <ScalarProperty Name="Наименование_организации" ColumnName="Наименование организации" />
+          <ScalarProperty Name="Правовой_статус_организации" ColumnName="Правовой статус организации" />
+          <ScalarProperty Name="Дата_следующей_проверки" ColumnName="Дата следующей проверки" />
+          <ScalarProperty Name="Дата_последней_проверки" ColumnName="Дата последней проверки" />
+          <ScalarProperty Name="Дата_посещения" ColumnName="Дата посещения" />
+          <ScalarProperty Name="Особые_отметки" ColumnName="Особые отметки" />
+          <ScalarProperty Name="Код_организации" ColumnName="Код организации" />
+          <ScalarProperty Name="Порядковый_номер" ColumnName="Порядковый номер" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
